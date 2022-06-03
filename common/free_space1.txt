@@ -1,9 +1,0 @@
-<h4 id="sub_title2">■ 買うなら楽天がオススメ！</h4>
-<div class="main_bnr01"> 
-<!-- TG-Affiliate Banner Space --> 
-<A href="http://ad2.trafficgate.net/t/r/415/1396/202545_331479/" target="_blank"><IMG src="http://srv2.trafficgate.net/t/b/415/1396/202545_331479/" border="0"></A> 
-<!-- /TG-Affiliate Banner Space -->      
-<br><br>
-<a href="http://ad2.trafficgate.net/t/r/415/1396/202545_331479/" target="_blank">楽天カード</a>を作って最大2倍のポイント還元！<br><b><a href="http://ad2.trafficgate.net/t/r/415/1396/202545_331479/" target="_blank">楽天カード</a>を作成するだけで<br>
-5,000～8,000円分（ポイント）を獲得！買うなら、楽天でしょ！
-</div>
